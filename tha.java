@@ -6,6 +6,7 @@ public class tha {
 		
 		System.out.println("ommala");
 				System.out.println("otha");
+				System.out.println("ommala"); //(testing)
 	}
 
 }
